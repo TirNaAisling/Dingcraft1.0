@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dc",
+  "name": "Dingcraft Mod",
+  "description": "Dingcraft mod version 1.0 is a levelling based mod",
+  "version": "1.0",
+  "mcversion": "${1.12}",
+  "url": "http://craftlab.yogadb.co.uk/dingcraft",
+  "updateUrl": "",
+  "authorList": ["Craftlab"],
+  "credits": "TirNaAisling @ Craftlab",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
